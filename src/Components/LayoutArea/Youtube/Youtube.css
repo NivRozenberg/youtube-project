@@ -1,0 +1,23 @@
+.Youtube {
+	font-weight: 200;
+}
+
+
+td {
+    width:200px;
+}
+
+h2{
+    color: red;
+}
+
+h5 {
+    color:black
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 700px */
+    
+}
