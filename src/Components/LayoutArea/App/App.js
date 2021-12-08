@@ -24,6 +24,7 @@ class Layout extends Component {
                     </nav> */}
                     <main>
                         <Routing />
+                        
                     </main>
                 </div>
             </BrowserRouter>
